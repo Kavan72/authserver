@@ -1,1 +1,2 @@
-# authserver
+Сервер авторизации проекта 'Mind Of War'
+Написано по заказу vk.com/ipetrov2001
