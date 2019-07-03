@@ -1,0 +1,11 @@
+C:\Users\cocbu\repos\AuthServer\bin\Release\AuthServer.exe.config
+C:\Users\cocbu\repos\AuthServer\bin\Release\AuthServer.exe
+C:\Users\cocbu\repos\AuthServer\bin\Release\AuthServer.pdb
+C:\Users\cocbu\repos\AuthServer\bin\Release\Google.Protobuf.dll
+C:\Users\cocbu\repos\AuthServer\bin\Release\MySql.Data.dll
+C:\Users\cocbu\repos\AuthServer\bin\Release\Google.Protobuf.xml
+C:\Users\cocbu\repos\AuthServer\bin\Release\MySql.Data.xml
+C:\Users\cocbu\repos\AuthServer\obj\Release\AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\cocbu\repos\AuthServer\obj\Release\AuthServer.csproj.CopyComplete
+C:\Users\cocbu\repos\AuthServer\obj\Release\AuthServer.exe
+C:\Users\cocbu\repos\AuthServer\obj\Release\AuthServer.pdb

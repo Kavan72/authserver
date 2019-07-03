@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AuthServer" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="START_ARGS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-bootstrap row_emul -devmode +online_server=194.67.220.128 +online_check_certificate=0</Value>
+    </Setting>
+    <Setting Name="SRV_PORT" Type="System.UInt16" Scope="User">
+      <Value Profile="(Default)">6000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
